@@ -1,9 +1,9 @@
 {
     "id": "155B620F",
-    "path": "C:/Users/shafi/Documents/academic-website/publications.qmd",
+    "path": "~/academic-website/publications.qmd",
     "project_path": "publications.qmd",
     "type": "quarto_markdown",
-    "hash": "2155358981",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1785314728257.0,
@@ -13,7 +13,7 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,0",
+        "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
