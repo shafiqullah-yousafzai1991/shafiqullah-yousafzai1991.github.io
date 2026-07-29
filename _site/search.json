@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nI am Shafiqullah Yousafzai, a Ph.D. graduate in International Public Policy (Applied Economics) from the University of Tsukuba, Japan (2025).\nMy research interests lie at the intersection of international trade, development economics, spatial economics, economic geography, and applied econometrics. My research examines how globalization, trade integration, market access, and economic geography influence regional development, inequality, and household welfare.\nMy doctoral research focused on the economic consequences of exchange rate volatility, labor market conditions, exports, and regional inequality. I use quantitative methods combined with geospatial data, satellite nighttime lights, household surveys, and international trade datasets.\nMy current research projects include:\n\nTrade hubs and regional inequality\nInternational trade and household welfare\nTrade integration and child labor\nAgricultural productivity and technical efficiency\nMarket access and regional development\nTransportation infrastructure and economic geography\n\nI have experience with applied econometric methods and statistical software including Stata, R, QGIS, LaTeX, MATLAB, SPSS, and EViews.\nThis website provides information about my research, publications, teaching activities, and academic projects."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
     "text": "I am a researcher in international trade, development economics, spatial economics, and economic geography. My research focuses on international trade, market access, regional inequality, household welfare, and applied econometrics.\n\n\n\n\nInternational Trade\nDevelopment Economics\nSpatial Economics\nEconomic Geography\nApplied Econometrics\nAgricultural Economics\n\n\n\n\n\nTrade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\nHigh-Speed Rail and NO₂ Emissions\nRoad Quality and Trade Integration\n\nWelcome to my academic website."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html#international-trade-development-economics-spatial-economics",
@@ -35,10 +35,17 @@
     "text": "Trade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\nHigh-Speed Rail and NO₂ Emissions\nRoad Quality and Trade Integration\n\nWelcome to my academic website."
   },
   {
-    "objectID": "index.html#international-trade-development-economics-spatial-economics-1",
-    "href": "index.html#international-trade-development-economics-spatial-economics-1",
-    "title": "Home",
-    "section": "International Trade • Development Economics • Spatial Economics",
-    "text": "International Trade • Development Economics • Spatial Economics\nI am a researcher in international trade, development economics, spatial economics, and economic geography.\n\nResearch Interests\n\nInternational Trade\nDevelopment Economics\nSpatial Economics\nEconomic Geography\nApplied Econometrics\n\n\n\nCurrent Research\n\nTrade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\n\nWelcome to my academic website."
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on international trade, development economics, spatial economics, and economic geography.\n\n\n\nInternational Trade\nDevelopment Economics\nSpatial Economics\nRegional Inequality\nMarket Access\nHousehold Welfare\nAgricultural Economics"
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Research",
+    "section": "",
+    "text": "International Trade\nDevelopment Economics\nSpatial Economics\nRegional Inequality\nMarket Access\nHousehold Welfare\nAgricultural Economics"
   }
 ]

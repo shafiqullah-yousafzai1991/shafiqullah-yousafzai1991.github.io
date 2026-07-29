@@ -4,5 +4,20 @@
   },
   "about.qmd": {
     "about.html": "a06968a5"
+  },
+  "contact.qmd": {
+    "contact.html": "04d0c047"
+  },
+  "cv.qmd": {
+    "cv.html": "b1697f24"
+  },
+  "publications.qmd": {
+    "publications.html": "1780bcd9"
+  },
+  "research.qmd": {
+    "research.html": "3ac246ce"
+  },
+  "teaching.qmd": {
+    "teaching.html": "57772864"
   }
 }
