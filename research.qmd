@@ -4,14 +4,69 @@ title: "Research"
 
 # Research
 
-My research focuses on international trade, development economics, spatial economics, and economic geography.
+My research lies at the intersection of international trade, development economics, spatial economics, and economic geography. I study how globalization, market access, trade costs, and infrastructure influence regional development, inequality, and household welfare.
 
 ## Research Areas
 
-- International Trade
-- Development Economics
-- Spatial Economics
-- Regional Inequality
-- Market Access
-- Household Welfare
-- Agricultural Economics
+### 1. International Trade and Regional Development
+
+My research examines how international trade integration and market access affect regional economic outcomes, urban–rural inequality, and local development.
+
+**Key project:**
+
+- *Trade Hubs and the Uneven Gains from Globalization: Urban and Rural Disparities from Satellite Nighttime Lights Data*
+
+This project investigates whether locations connected to international trade networks experience different development outcomes compared with non-hub regions using satellite nighttime lights data and cross-country panel data.
+
+---
+
+### 2. Trade, Household Welfare, and Development
+
+I study how trade integration affects household welfare outcomes, including labor allocation, child labor, and health outcomes.
+
+**Key projects:**
+
+- Trade Integration, Child Labor, and Rural–Urban Inequality in Sub-Saharan Africa
+- Trade and Infant Mortality: Evidence from Household Survey Data
+
+---
+
+### 3. Agricultural Economics and Productivity
+
+My research also examines agricultural productivity, technical efficiency, and constraints faced by farmers in developing economies.
+
+**Key project:**
+
+- Technical Efficiency of Wheat Production in Afghanistan
+
+This research applies stochastic frontier analysis to investigate the determinants of agricultural productivity and efficiency.
+
+---
+
+### 4. Transportation Infrastructure and Economic Geography
+
+I examine how transportation networks influence economic activity, connectivity, and regional development.
+
+**Current projects:**
+
+- High-Speed Rail and Knowledge Spillovers
+- Road Quality and Trade Integration
+
+---
+
+## Research Methods and Data
+
+My research uses applied econometric methods combined with spatial and geospatial data.
+
+Methods:
+- Panel data econometrics
+- Instrumental variable estimation
+- Stochastic frontier analysis
+- Gravity models of trade
+- Spatial analysis
+
+Data sources:
+- Satellite nighttime lights
+- Household surveys (DHS, ALCS)
+- International trade databases
+- Geographic information systems (GIS)
