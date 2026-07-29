@@ -1,7 +1,3 @@
----
-title: "About"
----
-
 # About Me
 
 I am Shafiqullah Yousafzai, a Ph.D. graduate in International Public Policy (Applied Economics) from the University of Tsukuba, Japan (2025).
