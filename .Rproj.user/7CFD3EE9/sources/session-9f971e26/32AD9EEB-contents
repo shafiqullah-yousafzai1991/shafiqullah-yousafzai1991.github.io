@@ -2,6 +2,17 @@
 
 # Shafiqullah Yousafzai, Ph.D.
 
+[Download Full CV (PDF)](cv/Shafiqullah_Yousafzai_CV.pdf)
+
+
+# Professional Summary
+
+I am a Ph.D. graduate in International Public Policy (Applied Economics) from the University of Tsukuba, Japan. My research focuses on international economics, international trade, development economics, spatial economics, economic geography, and applied econometrics.
+
+My research examines how globalization, trade integration, economic shocks, and market access influence regional inequality, household welfare, and economic development, particularly in developing countries. I use quantitative methods including panel data econometrics, causal inference, spatial analysis, and satellite-based remote sensing data.
+
+
+
 University of Tsukuba, Tsukuba City, Japan
 Email: [Shafiqullah1991@gmail.com](mailto:Shafiqullah1991@gmail.com)
 ORCiD: 0009-0003-8397-6702
@@ -11,77 +22,59 @@ Website: sites.google.com/view/shafiqullahyousafzai
 
 ## Associate Professor (Incoming Appointment)
 
-**University of World Economy and Diplomacy (UWED), Tashkent, Uzbekistan**
-**September 2026 – May 2027**
+**University of World Economy and Diplomacy (UWED)**  
+Tashkent, Uzbekistan  
+September 2026 – May 2027
 
-Incoming appointment.
+Teaching and research responsibilities in international economics and related fields.
+
+---
 
 ## Lecturer (Part-Time)
 
-**Pamir Institute of Higher Education, Afghanistan**
-**March 2019 – August 2020**
+**Pamir Institute of Higher Education**  
+Afghanistan  
+March 2019 – August 2020
 
-* Taught undergraduate courses in Development Economics, Business Management, and Introduction to Research.
+- Taught undergraduate courses in Development Economics, Business Management, and Introduction to Research.
 
-## Cashier
-
-**AMOR (American Medical Overseas Relief) Afghanistan Health Organization, Afghanistan**
-**June 2017 – August 2020**
-
-Concurrent with part-time lecturing at Pamir Institute of Higher Education from March 2019.
-
-## Data Entry Operator
-
-**Netlinks, Afghanistan**
-**December 2016 – May 2017**
-
-## Field Investigator
-
-**Society for Sustainable Development of Afghanistan, Afghanistan**
-**October 2015 – November 2016**
-
-* Team leader in WASH, CLTS, and ODF projects sponsored by UNICEF.
+---
 
 # Education
 
 ## Ph.D. in International Public Policy (Applied Economics)
 
-**University of Tsukuba, Japan**
-**2022 – 2025**
+**University of Tsukuba, Japan**  
+2022 – 2025
 
-Dissertation: *Economic Analysis of Exchange Rate Volatility, Labor Market Rigidity, Exports, and Regional Inequality*
+Dissertation:
 
-Final defense: January 2025
-Degree conferred: March 2025
+*"Economic Analysis of Exchange Rate Volatility, Labor Market Rigidity, Exports, and Regional Inequality"*
 
-Committee:
+Supervisor: Professor Hisahiro Naito
 
-* Hisahiro Naito (Chair)
-* Yoshinori Kurokawa
-* Zhengfei Yu
-* Kenichi Kashiwagi
+
+---
 
 ## Master's in International Public Policy (Applied Economics)
 
-**University of Tsukuba, Japan**
-**2020 – 2022**
+**University of Tsukuba, Japan**  
+2020 – 2022
 
-## B.S. (Hons) in Economics and Finance
+---
 
-**National University of Modern Languages, Pakistan**
-**2011 – 2015**
+## B.S. (Honors) in Economics and Finance
 
-# Research Interests
+**National University of Modern Languages, Pakistan**  
+2011 – 2015
 
-* International Trade
-* Development Economics
-* Spatial Economics
-* Economic Geography
-* Regional Inequality
-* Applied Econometrics
-* Agricultural Economics
+---
+
+
+
 
 # Publications and Research Outputs
+
 
 ## Papers Submitted for Peer Review
 
@@ -89,25 +82,21 @@ Committee:
 
 **with Hisahiro Naito**
 
-This study examines whether the gains from export-driven globalization are distributed evenly across regions. Using satellite-measured nighttime luminosity across developing countries, the research shows that trade-related growth is concentrated in urban trade hubs relative to surrounding rural areas, highlighting the importance of spatially inclusive trade policies.
 
 ### The Effect of Exchange Rate Volatility and Labor Market Rigidity on Export Growth
 
 **with Hisahiro Naito**
 
-This paper investigates how exchange rate uncertainty interacts with labor market rigidity to influence export performance using country–industry panel data. The study contributes to understanding how macroeconomic uncertainty and labor market institutions jointly shape international competitiveness.
 
 ### Can DMSP Night Light Capture Household-Level Welfare? Evidence from a Cluster-Level Quasi-Panel of the Demographic and Health Survey
 
 **with Hisahiro Naito**
 
-This study evaluates whether satellite nighttime luminosity can serve as a proxy for household welfare in countries where conventional survey data are limited. It explores the potential of remote sensing indicators for monitoring socioeconomic development.
 
 ### Differential Farming Systems, Farm Productivity, and Resource Use Efficiency: The Case of Wheat Production in Afghanistan
 
 **with Mohammad Abdul Malek and Kenichi Kashiwagi**
 
-This research applies an endogeneity-corrected stochastic frontier model to household-level agricultural survey data to analyze productivity differences and resource-use efficiency among wheat-producing households in Afghanistan.
 
 # Working Papers
 
@@ -115,7 +104,6 @@ This research applies an endogeneity-corrected stochastic frontier model to hous
 
 **with Hisahiro Naito**
 
-This study examines how unpredictable exchange rate shocks interact with labor market rigidity to affect export growth.
 
 # Work in Progress
 
@@ -123,15 +111,46 @@ This study examines how unpredictable exchange rate shocks interact with labor m
 
 **with Hisahiro Naito**
 
-Examines the relationship between export expansion and child health outcomes across Sub-Saharan African countries.
-
 ### The Effects of Trade on Child Labor in Sub-Saharan Africa: Evidence Using a Trade-Cost Instrument
 
-Investigates the effects of trade integration on child labor using a trade-cost-based identification strategy.
 
 ### The Effects of Landlockedness on Trade, Market Access and Household Welfare: Evidence from Ethiopia’s Loss of Sea Access as a Natural Experiment
 
-Studies how changes in trade connectivity and transportation costs affect market access and household welfare.
+
+---
+
+# Research Skills
+
+- Applied econometric analysis
+- Panel data econometrics
+- Causal inference
+- Quantitative policy evaluation
+- Spatial economics
+- Satellite remote sensing data analysis
+- Academic writing and publication preparation
+- Research collaboration and grant proposal preparation
+
+---
+
+# Software Skills
+
+- Stata
+- R
+- QGIS
+- SPSS
+- EViews
+- LaTeX
+
+---
+
+# Honors and Scholarships
+
+- MEXT Scholarship (Doctoral), Government of Japan
+- MEXT Scholarship (Master's), Government of Japan
+- Allama Iqbal Scholarship, Government of Pakistan
+
+---
+
 
 # Open Data and Code
 
@@ -142,6 +161,9 @@ Publicly available research materials and replication code are provided through 
 * MEXT Scholarship (Doctoral), Government of Japan
 * MEXT Scholarship (Master's), Government of Japan
 * Allama Iqbal Scholarship (Bachelor's), Government of Pakistan
+
+
+---
 
 # Conference Presentations
 
@@ -165,33 +187,16 @@ Publicly available research materials and replication code are provided through 
 
 * *Trade Hubs and the Uneven Gains from Globalization: Global Evidence from Satellite Nighttime Lights Data*, University of Tsukuba, Japan, 2024.
 
-# Technical and Research Skills
-
-**Research Skills**
-
-* Applied econometrics
-* Panel data analysis
-* Causal inference
-* Quantitative policy evaluation
-* Academic writing and publication preparation
-* Research collaboration
-* Grant proposal preparation
-
-**Software**
-
-* Stata
-* R
-* QGIS
-* SPSS
-* EViews
-* LaTeX
+---
 
 # Languages
 
-* Pashto (Native)
-* English (Fluent)
-* Japanese (Basic)
-* Hindi/Urdu (Intermediate)
+- Pashto (Native)
+- English (Fluent)
+- Japanese (Basic)
+- Hindi/Urdu (Intermediate)
+
+---
 
 # References
 
