@@ -2,12 +2,23 @@ project:
   type: website
 
 website:
-  title: "academic-website"
+  title: "Shafiqullah Yousafzai"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+      - href: about.qmd
+        text: About
 
 format:
   html:
@@ -16,4 +27,3 @@ format:
     toc: true
 
 editor: visual
-

@@ -1,11 +1,58 @@
 ---
-title: "academic-website"
+title: "Shafiqullah Yousafzai"
 ---
 
-This is a Quarto website.
+# Shafiqullah Yousafzai, Ph.D.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## International Trade • Development Economics • Spatial Economics
 
-```{r}
-1 + 1
-```
+I am a researcher in international trade, development economics, spatial economics, and economic geography. My research focuses on international trade, market access, regional inequality, household welfare, and applied econometrics.
+
+## Research Interests
+
+-   International Trade
+-   Development Economics
+-   Spatial Economics
+-   Economic Geography
+-   Applied Econometrics
+-   Agricultural Economics
+
+## Current Research
+
+-   Trade Hubs and Regional Inequality
+-   Exchange Rate Volatility and Export Growth
+-   Trade and Child Labor
+-   Trade and Infant Mortality
+-   Technical Efficiency of Wheat Production
+-   High-Speed Rail and NO₂ Emissions
+-   Road Quality and Trade Integration
+
+Welcome to my academic website.
+
+---
+title: "Home"
+---
+
+# Shafiqullah Yousafzai, Ph.D.
+
+## International Trade • Development Economics • Spatial Economics
+
+I am a researcher in international trade, development economics, spatial economics, and economic geography.
+
+### Research Interests
+
+-   International Trade
+-   Development Economics
+-   Spatial Economics
+-   Economic Geography
+-   Applied Econometrics
+
+### Current Research
+
+-   Trade Hubs and Regional Inequality
+-   Exchange Rate Volatility and Export Growth
+-   Trade and Child Labor
+-   Trade and Infant Mortality
+-   Technical Efficiency of Wheat Production
+
+Welcome to my academic website.

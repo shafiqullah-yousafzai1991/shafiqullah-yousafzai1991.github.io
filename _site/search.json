@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "academic-website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a researcher in international trade, development economics, spatial economics, and economic geography. My research focuses on international trade, market access, regional inequality, household welfare, and applied econometrics.\n\n\n\n\nInternational Trade\nDevelopment Economics\nSpatial Economics\nEconomic Geography\nApplied Econometrics\nAgricultural Economics\n\n\n\n\n\nTrade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\nHigh-Speed Rail and NO₂ Emissions\nRoad Quality and Trade Integration\n\nWelcome to my academic website."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#international-trade-development-economics-spatial-economics",
+    "href": "index.html#international-trade-development-economics-spatial-economics",
+    "title": "Home",
+    "section": "",
+    "text": "I am a researcher in international trade, development economics, spatial economics, and economic geography. My research focuses on international trade, market access, regional inequality, household welfare, and applied econometrics."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "",
+    "text": "International Trade\nDevelopment Economics\nSpatial Economics\nEconomic Geography\nApplied Econometrics\nAgricultural Economics"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Home",
+    "section": "",
+    "text": "Trade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\nHigh-Speed Rail and NO₂ Emissions\nRoad Quality and Trade Integration\n\nWelcome to my academic website."
+  },
+  {
+    "objectID": "index.html#international-trade-development-economics-spatial-economics-1",
+    "href": "index.html#international-trade-development-economics-spatial-economics-1",
+    "title": "Home",
+    "section": "International Trade • Development Economics • Spatial Economics",
+    "text": "International Trade • Development Economics • Spatial Economics\nI am a researcher in international trade, development economics, spatial economics, and economic geography.\n\nResearch Interests\n\nInternational Trade\nDevelopment Economics\nSpatial Economics\nEconomic Geography\nApplied Econometrics\n\n\n\nCurrent Research\n\nTrade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\n\nWelcome to my academic website."
   }
 ]
