@@ -10,7 +10,7 @@
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "rmdVisualMode": "true",
+        "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
@@ -22,11 +22,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1785315328,
+    "lastKnownWriteTime": 1785315483,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1785315328092,
+    "last_content_update": 1785315483,
     "read_only": false,
     "read_only_alternatives": []
 }
