@@ -1,7 +1,3 @@
----
-title: "Home"
----
-
 # Shafiqullah Yousafzai, Ph.D.
 
 ## International Trade • Development Economics • Spatial Economics
