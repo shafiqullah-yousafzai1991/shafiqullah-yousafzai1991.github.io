@@ -6,4 +6,6 @@ title: "About"
 
 Welcome to my academic website.
 
-I am a researcher in international trade, development economics, spatial economics, and economic geography. This website presents my research, publications, teaching, and academic activities.
+I am a Ph.D. graduate in International Public Policy (Applied Economics) from the University of Tsukuba, Japan. My research focuses on international trade, development economics, spatial economics, economic geography, regional inequality, and applied econometrics.
+
+This website provides information about my research, publications, teaching, and academic activities.
