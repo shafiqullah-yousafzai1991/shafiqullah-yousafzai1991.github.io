@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+# About
 
-```{r}
-1 + 1
-```
+Welcome to my academic website.
+
+I am a researcher in international trade, development economics, spatial economics, and economic geography. This website presents my research, publications, teaching, and academic activities.
