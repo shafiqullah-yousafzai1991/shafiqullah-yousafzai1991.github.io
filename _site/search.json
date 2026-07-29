@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "academic-website",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Teaching"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Curriculum Vitae"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shafiqullah Yousafzai",
+    "section": "",
+    "text": "I am a researcher in international trade, development economics, and spatial economics. My research focuses on international trade, market access, regional inequality, economic geography, household welfare, and satellite-based economic analysis.\n\n\n\nInternational Trade\nInternational Economics\nDevelopment Economics\nSpatial Economics\nEconomic Geography\nApplied Econometrics\nAgricultural Economics\n\n\n\n\n\n\n\nTrade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\nHigh-Speed Rail and NO₂ Emissions\nRoad Quality and Trade Integration\n\n\nWelcome to my academic website."
+  },
+  {
+    "objectID": "index.html#international-trade-development-economics-spatial-economics",
+    "href": "index.html#international-trade-development-economics-spatial-economics",
+    "title": "Shafiqullah Yousafzai",
+    "section": "",
+    "text": "I am a researcher in international trade, development economics, and spatial economics. My research focuses on international trade, market access, regional inequality, economic geography, household welfare, and satellite-based economic analysis.\n\n\n\nInternational Trade\nInternational Economics\nDevelopment Economics\nSpatial Economics\nEconomic Geography\nApplied Econometrics\nAgricultural Economics"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Shafiqullah Yousafzai",
+    "section": "",
+    "text": "Trade Hubs and Regional Inequality\nExchange Rate Volatility and Export Growth\nTrade and Child Labor\nTrade and Infant Mortality\nTechnical Efficiency of Wheat Production\nHigh-Speed Rail and NO₂ Emissions\nRoad Quality and Trade Integration\n\n\nWelcome to my academic website."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research"
   }
 ]

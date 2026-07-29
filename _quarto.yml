@@ -2,12 +2,38 @@ project:
   type: website
 
 website:
-  title: "academic-website"
+  title: "Shafiqullah Yousafzai"
+  site-url: "https://shafiqullah1991.github.io"
+
   navbar:
+    background: light
+    search: true
+
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
+      - href: about.qmd
+        text: About
+
+      - href: research.qmd
+        text: Research
+
+      - href: publications.qmd
+        text: Publications
+
+      - href: teaching.qmd
+        text: Teaching
+
+      - href: cv.qmd
+        text: CV
+
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - icon: github
+        href: https://github.com/shafiqullah1991
 
 format:
   html:
@@ -16,4 +42,3 @@ format:
     toc: true
 
 editor: visual
-
