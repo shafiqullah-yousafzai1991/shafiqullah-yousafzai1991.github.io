@@ -3,7 +3,7 @@
     "path": "~/academic-website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "476281703",
+    "hash": "3574381195",
     "contents": "",
     "dirty": false,
     "created": 1785242270328.0,
@@ -18,15 +18,15 @@
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "261:0",
         "docOutlineSize": "192",
-        "cursorPosition": "1,0",
+        "cursorPosition": "13,59",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1785332356,
+    "lastKnownWriteTime": 1785474426,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1785332356378,
+    "last_content_update": 1785474426530,
     "read_only": false,
     "read_only_alternatives": []
 }
